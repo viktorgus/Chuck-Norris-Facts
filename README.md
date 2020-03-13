@@ -1,3 +1,7 @@
+# Chuck Norris Fact Generator
+Generate absolutely true facts about the great Chuck Norris
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
